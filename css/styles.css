@@ -1,0 +1,28 @@
+
+body {
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+  background-size: cover;
+}
+
+p{
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+
+hr{
+  border-style: none;
+  background-color:  inherit;
+  border-color: #bbf1c8	;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:3%;
+}
+
+h1{
+  color: #1d2d50;
+}
+h3{
+  color:#1d2d50;
+}
